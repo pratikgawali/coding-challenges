@@ -1,2 +1,3 @@
 # coding-challenges
-Becoming a better software engineer through coding challenges that build real applications!
+
+This repo is about me solving the coding challenges in [codingchallenges.fyi](https://codingchallenges.fyi/).
